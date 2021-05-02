@@ -5,3 +5,5 @@
 
 #### While on the other hand developing a Growth Mindset, is completely the opposite, where people with Growth mindset are eager to gain knowledge and new skills all the time, always open to for challenges and are able to face problems and struggles and find convenient solutions.
 
+Tamim Ashour
+
