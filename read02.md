@@ -7,5 +7,4 @@
 
 # Git is an example of DVCs that store a snapshots everytime a change is held
 
-# to be continued 
-
+# to be continued
