@@ -1,10 +1,17 @@
-# Reading-notes102
-#### I would like to share some interesting facts I have learned today about Mindset
-![growth vs fixed mindset](https://i.pinimg.com/originals/60/fc/0c/60fc0c1033aaa99fd4fbca9bccb723f1.png)
-#### As you can see from the figure, these two types of mindsets, are mainly the two types of people when it comes to success. Where fixed mindset represent arrogand and sometimes dependent people who believe their row talents and gifts are the the only quality they need to achieve sucess and happiness.
 
-#### While on the other hand developing a Growth Mindset, is completely the opposite, where people with Growth mindset are eager to gain knowledge and new skills all the time, always open to for challenges and are able to face problems and struggles and find convenient solutions.
 
 Tamim Ashour
 
 [Git Summery](https://github.com/Tamim86/Reading-notes102/blob/main/Git%20Understanding)
+
+# About Me
+
+### I`m Tamim Ashour, I`m joining a full stack development course, held by ASAC & LTUC.
+### I`m looking forward to improve and build coding skills in order to push forward my career and add a nee value to startups I`m involved in
+
+| Page     |     Discription  |  Link                    |
+|----------|:-------------:   |------:                   |
+| Read01   |  Mindset Summery | [Mindset](https://tamim86.github.io/Reading-notes102/Read01)      |
+| Read02   | Git Summery      | [Git Summery](https://tamim86.github.io/Reading-notes102/read02)      |
+| Read03   | WF/HTML Brief    | [WF/HTML](https://tamim86.github.io/Reading-notes102/Read03)      |
+| Read03b  | CSS summery      | [CSS Summery](https://tamim86.github.io/Reading-notes102/Read03b)     |
