@@ -15,3 +15,4 @@ Tamim Ashour
 | Read02   | Git Summery      | [Git Summery](https://tamim86.github.io/Reading-notes102/read02)      |
 | Read03   | WF/HTML Brief    | [WF/HTML](https://tamim86.github.io/Reading-notes102/Read03)      |
 | Read03b  | CSS summery      | [CSS Summery](https://tamim86.github.io/Reading-notes102/Read03b)     |
+| Read05  | loops summery     | [loops summery](https://tamim86.github.io/Reading-notes102/Read03b)     |
