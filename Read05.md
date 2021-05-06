@@ -22,4 +22,4 @@
 
 ### We use *While Loop* when we dont know how many times we need to Iterate
 
-We use *For Loop* when we know how many times we need to iterate
+### We use *For Loop* when we know how many times we need to iterate
