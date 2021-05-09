@@ -21,4 +21,8 @@ Tamim Ashour
 =======
 | Read03b  | CSS summery      | [CSS Summery](https://tamim86.github.io/Reading-notes102/Read03b)     |
 | Read05  | loops summery     | [loops summery](https://tamim86.github.io/Reading-notes102-2/Read05)     |
+<<<<<<< HEAD
 
+=======
+>>>>>>> ce393de70930ab2f89a0c8562336767f3c4f6833
+>>>>>>> 19c81cab200f5c98828e05be8a5108dec404584c
