@@ -14,15 +14,11 @@ Tamim Ashour
 | Read01   |  Mindset Summary | [Mindset](https://tamim86.github.io/Reading-notes102/Read01)      |
 | Read02   | Git Summary      | [Git Summery](https://tamim86.github.io/Reading-notes102/read02)      |
 | Read03   | WF/HTML Brief    | [WF/HTML](https://tamim86.github.io/Reading-notes102/Read03)      |
-<<<<<<< HEAD
+
 | Read03b  | CSS summary      | [CSS Summery](https://tamim86.github.io/Reading-notes102/Read03b)     |
 | Read05  | loops summary     | [loops summery](https://tamim86.github.io/Reading-notes102-2/Read05)    |
 | Read04a | JS summary        | [JS summery](https://tamim86.github.io/Reading-notes102-2/Read05)    |
-=======
-| Read03b  | CSS summery      | [CSS Summery](https://tamim86.github.io/Reading-notes102/Read03b)     |
-| Read05  | loops summery     | [loops summery](https://tamim86.github.io/Reading-notes102-2/Read05)     |
-<<<<<<< HEAD
 
-=======
->>>>>>> ce393de70930ab2f89a0c8562336767f3c4f6833
->>>>>>> 19c81cab200f5c98828e05be8a5108dec404584c
+| Read03b  | CSS summery      | [CSS Summery](https://tamim86.github.io/Reading-notes102/Read03b)     |
+| Read05  | loops summery     | [loops summery](https://tamim86.github.io/Reading-notes102-2/Read05)    |
+| Read06  | Funcions summery  | [Funcions summery](https://tamim86.github.io/Reading-notes102-2/Read05)    |
